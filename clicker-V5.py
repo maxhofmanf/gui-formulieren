@@ -26,7 +26,7 @@ def marked():
         elif stat == False:
             Click2()
         window.after(5000,marked)
-
+s
 
 
 def up(e):
